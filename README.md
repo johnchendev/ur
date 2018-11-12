@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* This app is developed for UrbanRad
+
+* Stages of development will be as per requirements
